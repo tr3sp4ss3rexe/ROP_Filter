@@ -1,7 +1,7 @@
 ## ROP filter
 
 
-Have in mind you need to manually specify the badchars in the script!
+Have in mind you need to manually specify the bad bytes in the script!
 
 Usage: 
 
